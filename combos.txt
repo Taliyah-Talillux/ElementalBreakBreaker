@@ -1,0 +1,45 @@
+Brique basic + Element : Changement d'élément Basic  à l'élement de la balle // OK
+--------------------------------------
+
+2 fois le même élement : On détruit 1 brique // OK
+--------------------------------------------
+
+
+ELectro + Cryo : Perçage 
+- La balle ne rebondit plus, elle continue sur sa lancé détruisant toute les tuiles sur son passage
+-----------------------------------------------------------------
+
+Electro + Hydro : Casse toute la ligne peu importe l'élément // EN COURS VOIR BUG
+-------------------------------------------------------------
+
+Electro + Pyro : Casse tout le groupe de brique pyro OU 
+Casse les briques dans une zone défini (à déterminer) 
+
+--------------------------------------------------
+
+Cryo + Hydro : Gel le groupe de brique // OK
+-----------------------------------------------------
+
+
+
+Pyro + Cryo: Détruit une brique : Effet de fonte // OK
+
+Pyro + Hydro : Casse une brique , pas d'effets particuliers // OK
+
+-------------------------------
+
+
+
+Les effets s'arrête si la balle sort de l'écran, on conserve l'élement actuelle
+
+
+
+BUGS A CORRIGER 
+DESTRUCTION DE TOUT LES GROUPES ELECTRO EN MEME TEMPS
+
+VITESSE BALLE BUG QUAND COINCE SOUS UNE BRIQUE
+
+
+MODIFIER LE TIMER INDIVIDUELLEMENT POUR  CHAQUE TYPE DE COMBO
+
+FINIR  MISE EN PLACE BOUTONS

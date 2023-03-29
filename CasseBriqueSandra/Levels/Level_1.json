@@ -1,0 +1,182 @@
+[
+  {
+    "x": 0,
+    "y": 0,
+    "type": "Hydro",
+    "speed": 1,
+    "distance": 100,
+    "group" : 1
+  },
+  {
+    "x": 60,
+    "y": 0,
+    "type": "Hydro",
+    "speed": 1,
+    "distance": 100,
+    "group": 1
+
+  },
+  {
+    "x": 120,
+    "y": 0,
+    "type": "Hydro",
+    "speed": 1,
+    "distance": 100,
+    "group": 1
+  },
+  {
+    "x": 740,
+    "y": 0,
+    "type": "Hydro",
+    "speed": 1,
+    "distance": -100,
+    "group": 2
+
+  },
+  {
+    "x": 680,
+    "y": 0,
+    "type": "Hydro",
+    "speed": 1,
+    "distance": -100,
+    "group": 2
+  },
+  {
+    "x": 620,
+    "y": 0,
+    "type": "Hydro",
+    "speed": 1,
+    "distance": -100,
+    "group": 2
+  },
+
+  {
+    "x": 20,
+    "y": 80,
+    "type": "Basic",
+    "speed": 0,
+    "group": 3
+  },
+  {
+    "x": 80,
+    "y": 80,
+    "type": "Basic",
+    "speed": 0,
+    "group": 3
+  },
+  {
+    "x": 140,
+    "y": 80,
+    "type": "Basic",
+    "speed": 0,
+    "group": 3
+  },
+  {
+    "x": 200,
+    "y": 80,
+    "type": "Basic",
+    "speed": 0,
+    "group": 3
+  },
+  {
+    "x": 260,
+    "y": 80,
+    "type": "Basic",
+    "speed": 0,
+    "group": 3
+  },
+  {
+    "x": 80,
+    "y": 140,
+    "type": "Basic",
+    "speed": 0,
+    "group": 3
+  },
+  {
+    "x": 140,
+    "y": 140,
+    "type": "Basic",
+    "speed": 0,
+    "group": 3
+  },
+  {
+    "x": 200,
+    "y": 140,
+    "type": "Basic",
+    "speed": 0,
+    "group": 3
+  },
+  {
+    "x": 140,
+    "y": 200,
+    "type": "Basic",
+    "speed": 0,
+    "group": 3
+  },
+  {
+    "x": 420,
+    "y": 100,
+    "type": "Hydro",
+    "speed": 1,
+    "distance": -50,
+    "group": 4
+  },
+  {
+    "x": 480,
+    "y": 100,
+    "type": "Hydro",
+    "speed": 1,
+    "distance": -50,
+    "group": 4
+  },
+  {
+    "x": 540,
+    "y": 100,
+    "type": "Basic",
+    "speed": 0,
+    "group": 5
+  },
+  {
+    "x": 350,
+    "y": 200,
+    "type": "Hydro",
+    "speed": 0,
+    "group": 6
+  },
+  {
+    "x": 410,
+    "y": 200,
+    "type": "Hydro",
+    "speed": 0,
+    "group": 6
+  },
+  {
+    "x": 470,
+    "y": 200,
+    "type": "Hydro",
+    "speed": 0,
+    "group": 6
+  },
+  {
+    "x": 740,
+    "y": 140,
+    "type": "Basic",
+    "speed": 0,
+    "group": 7
+  },
+  {
+    "x": 680,
+    "y": 200,
+    "type": "Basic",
+    "speed": 0,
+    "group": 7
+  },
+  {
+    "x": 740,
+    "y": 200,
+    "type": "Basic",
+    "speed": 0,
+    "group": 7
+  }
+
+]
